@@ -14,8 +14,7 @@ https://AnushaEluri.github.io/portfolio
 - JavaScript (JS) - Building interactive features
 
 ## About Me
-Aspiring developer passionate about web development. 
-This portfolio is built as a single-page responsive website.
+Self-motivated and enthusiastic learner who enjoys learning independently and building practical solutions. Always eager to explore new technologies, adapt quickly and turn ideas into reality. Looking for an opportunity to contribute, learn and grow with a dynamic team.
 
 ## Repository
 https://github.com/AnushaEluri/portfolio
